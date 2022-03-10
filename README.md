@@ -1,6 +1,6 @@
 # Coinly Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project was built with Hardhat. It comes with 3 contracts; Governance, Token Contract, Transaction and Yield Farm contract current hosted on the Eth reposten test network.
 
 Try running some of the following tasks:
 
